@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Archivo
+comment1.params=e
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nombArch
+comment2.target=Archivo(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ traeString()
+comment4.params=
+comment4.target=java.lang.String[]\ traerLineas()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=ultima
+comment6.target=void\ insertar(java.lang.String)
+comment7.params=ultima
+comment7.target=void\ actualizar(java.lang.String)
+numComments=8
